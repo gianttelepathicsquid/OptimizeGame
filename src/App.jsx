@@ -1,5 +1,5 @@
 import React from 'react';
-import WarehouseOptimizer from './components/WarehouseOptimizer';
+import WarehouseOptimizer from './components/WarehouseOptimizer.jsx'; // Added .jsx extension
 
 function App() {
   return (
